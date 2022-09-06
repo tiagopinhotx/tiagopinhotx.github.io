@@ -1,8 +1,8 @@
 # tiagopinhotx.github.io
 
 ## Social Links
-If you are looking for my Social Link Tree:
-[Social Link Tree]("https://tiagopinhotx.github.io/social-links")
+If you are looking for my Social Link Tree access the link below:
+<https://tiagopinhotx.github.io/social-links>
 
 ## Status: First Commit
 
