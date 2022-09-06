@@ -1,5 +1,9 @@
 # tiagopinhotx.github.io
 
+## Status: First Commit
+
+I just created the Project
+
 ## Project setup
 ```
 npm install
